@@ -1,0 +1,933 @@
+{
+  "version": "KJV",
+  "verses": [
+    {
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    },
+    {
+      "reference": "Proverbs 3:5-6",
+      "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."
+    },
+    {
+      "reference": "Philippians 4:13",
+      "text": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+      "reference": "Romans 8:28",
+      "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+    },
+    {
+      "reference": "Psalm 23:1",
+      "text": "The LORD is my shepherd; I shall not want."
+    },
+    {
+      "reference": "Isaiah 41:10",
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."
+    },
+    {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end."
+    },
+    {
+      "reference": "Romans 12:2",
+      "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+    },
+    {
+      "reference": "Joshua 1:9",
+      "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest."
+    },
+    {
+      "reference": "Psalm 46:1",
+      "text": "God is our refuge and strength, a very present help in trouble."
+    },
+    {
+      "reference": "Philippians 4:6-7",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+    },
+    {
+      "reference": "Matthew 6:33",
+      "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+    },
+    {
+      "reference": "Psalm 118:24",
+      "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+    },
+    {
+      "reference": "1 Corinthians 16:14",
+      "text": "Let all your things be done with charity."
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
+    },
+    {
+      "reference": "Psalm 119:105",
+      "text": "Thy word is a lamp unto my feet, and a light unto my path."
+    },
+    {
+      "reference": "Romans 15:13",
+      "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+    },
+    {
+      "reference": "Proverbs 16:3",
+      "text": "Commit thy works unto the LORD, and thy thoughts shall be established."
+    },
+    {
+      "reference": "1 John 4:19",
+      "text": "We love him, because he first loved us."
+    },
+    {
+      "reference": "Colossians 3:23",
+      "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men."
+    },
+    {
+      "reference": "Psalm 37:4",
+      "text": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart."
+    },
+    {
+      "reference": "Isaiah 40:31",
+      "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+    },
+    {
+      "reference": "Matthew 28:19",
+      "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost."
+    },
+    {
+      "reference": "James 1:17",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+    },
+    {
+      "reference": "Psalm 34:8",
+      "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him."
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "text": "Casting all your care upon him; for he careth for you."
+    },
+    {
+      "reference": "Galatians 5:22-23",
+      "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance: against such there is no law."
+    },
+    {
+      "reference": "Ephesians 2:8-9",
+      "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
+    },
+    {
+      "reference": "John 14:6",
+      "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."
+    },
+    {
+      "reference": "Psalm 27:1",
+      "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+    },
+    {
+      "reference": "Romans 10:9",
+      "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+    },
+    {
+      "reference": "1 Corinthians 10:13",
+      "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it."
+    },
+    {
+      "reference": "Psalm 121:1-2",
+      "text": "I will lift up mine eyes unto the hills, from whence cometh my help. My help cometh from the LORD, which made heaven and earth."
+    },
+    {
+      "reference": "Proverbs 18:10",
+      "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe."
+    },
+    {
+      "reference": "Matthew 5:16",
+      "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+    },
+    {
+      "reference": "John 1:1",
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God."
+    },
+    {
+      "reference": "Psalm 19:14",
+      "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer."
+    },
+    {
+      "reference": "Romans 6:23",
+      "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+    },
+    {
+      "reference": "2 Corinthians 5:17",
+      "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+    },
+    {
+      "reference": "Psalm 139:14",
+      "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."
+    },
+    {
+      "reference": "1 Thessalonians 5:16-18",
+      "text": "Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+    },
+    {
+      "reference": "Proverbs 3:11-12",
+      "text": "My son, despise not the chastening of the LORD; neither be weary of his correction: For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
+    },
+    {
+      "reference": "Matthew 6:34",
+      "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof."
+    },
+    {
+      "reference": "Psalm 91:1-2",
+      "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust."
+    },
+    {
+      "reference": "John 15:13",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    {
+      "reference": "Romans 12:12",
+      "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer."
+    },
+    {
+      "reference": "Psalm 32:8",
+      "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+    },
+    {
+      "reference": "Isaiah 26:3",
+      "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee."
+    },
+    {
+      "reference": "Matthew 11:29-30",
+      "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light."
+    },
+    {
+      "reference": "Psalm 37:5",
+      "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
+    },
+    {
+      "reference": "1 Corinthians 13:4-7",
+      "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things."
+    },
+    {
+      "reference": "Psalm 100:1-2",
+      "text": "Make a joyful noise unto the LORD, all ye lands. Serve the LORD with gladness: come before his presence with singing."
+    },
+    {
+      "reference": "Proverbs 22:6",
+      "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+    },
+    {
+      "reference": "John 8:32",
+      "text": "And ye shall know the truth, and the truth shall make you free."
+    },
+    {
+      "reference": "Psalm 51:10",
+      "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+    },
+    {
+      "reference": "Romans 8:38-39",
+      "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+    },
+    {
+      "reference": "Psalm 103:12",
+      "text": "As far as the east is from the west, so far hath he removed our transgressions from us."
+    },
+    {
+      "reference": "Matthew 5:14",
+      "text": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+    },
+    {
+      "reference": "John 16:33",
+      "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+    },
+    {
+      "reference": "Psalm 145:18",
+      "text": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth."
+    },
+    {
+      "reference": "Romans 5:8",
+      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+    },
+    {
+      "reference": "Proverbs 15:1",
+      "text": "A soft answer turneth away wrath: but grievous words stir up anger."
+    },
+    {
+      "reference": "John 3:17",
+      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+    },
+    {
+      "reference": "Psalm 147:3",
+      "text": "He healeth the broken in heart, and bindeth up their wounds."
+    },
+    {
+      "reference": "Romans 12:1",
+      "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."
+    },
+    {
+      "reference": "Matthew 22:37-39",
+      "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself."
+    },
+    {
+      "reference": "Psalm 150:6",
+      "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD."
+    },
+    {
+      "reference": "Romans 15:4",
+      "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
+    },
+    {
+      "reference": "Proverbs 4:23",
+      "text": "Keep thy heart with all diligence; for out of it are the issues of life."
+    },
+    {
+      "reference": "John 10:10",
+      "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+    },
+    {
+      "reference": "Psalm 1:1-2",
+      "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night."
+    },
+    {
+      "reference": "Romans 3:23",
+      "text": "For all have sinned, and come short of the glory of God."
+    },
+    {
+      "reference": "Matthew 6:21",
+      "text": "For where your treasure is, there will your heart be also."
+    },
+    {
+      "reference": "Psalm 9:9-10",
+      "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble. And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+    },
+    {
+      "reference": "John 13:34-35",
+      "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another."
+    },
+    {
+      "reference": "Romans 1:16",
+      "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."
+    },
+    {
+      "reference": "Psalm 16:8",
+      "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+    },
+    {
+      "reference": "Proverbs 17:17",
+      "text": "A friend loveth at all times, and a brother is born for adversity."
+    },
+    {
+      "reference": "John 6:35",
+      "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst."
+    },
+    {
+      "reference": "Romans 12:21",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    {
+      "reference": "Psalm 18:2",
+      "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower."
+    },
+    {
+      "reference": "Matthew 7:7",
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+    },
+    {
+      "reference": "John 4:14",
+      "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life."
+    },
+    {
+      "reference": "Romans 14:8",
+      "text": "For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's."
+    },
+    {
+      "reference": "Psalm 25:4-5",
+      "text": "Shew me thy ways, O LORD; teach me thy paths. Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
+    },
+    {
+      "reference": "Proverbs 22:1",
+      "text": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    {
+      "reference": "John 11:25-26",
+      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die. Believest thou this?"
+    },
+    {
+      "reference": "Romans 8:1",
+      "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+    },
+    {
+      "reference": "Psalm 56:3",
+      "text": "What time I am afraid, I will trust in thee."
+    },
+    {
+      "reference": "Matthew 5:9",
+      "text": "Blessed are the peacemakers: for they shall be called the children of God."
+    },
+    {
+      "reference": "John 15:5",
+      "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+    },
+    {
+      "reference": "Romans 5:1",
+      "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ."
+    },
+    {
+      "reference": "Psalm 62:1-2",
+      "text": "Truly my soul waiteth upon God: from him cometh my salvation. He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
+    },
+    {
+      "reference": "Proverbs 3:7",
+      "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+    },
+    {
+      "reference": "John 17:17",
+      "text": "Sanctify them through thy truth: thy word is truth."
+    },
+    {
+      "reference": "Romans 15:7",
+      "text": "Wherefore receive ye one another, as Christ also received us to the glory of God."
+    },
+    {
+      "reference": "Psalm 119:11",
+      "text": "Thy word have I hid in mine heart, that I might not sin against thee."
+    },
+    {
+      "reference": "Matthew 6:14",
+      "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you."
+    },
+    {
+      "reference": "John 5:24",
+      "text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+    },
+    {
+      "reference": "Romans 12:10",
+      "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another."
+    },
+    {
+      "reference": "Psalm 138:8",
+      "text": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands."
+    },
+    {
+      "reference": "Proverbs 19:21",
+      "text": "There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand."
+    },
+    {
+      "reference": "John 20:29",
+      "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+    },
+    {
+      "reference": "Romans 12:11",
+      "text": "Not slothful in business; fervent in spirit; serving the Lord."
+    },
+    {
+      "reference": "Psalm 143:8",
+      "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee."
+    },
+    {
+      "reference": "Matthew 5:3",
+      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+    },
+    {
+      "reference": "John 1:12",
+      "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name."
+    },
+    {
+      "reference": "Romans 12:9",
+      "text": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good."
+    },
+    {
+      "reference": "Psalm 37:7",
+      "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
+    },
+    {
+      "reference": "Proverbs 16:9",
+      "text": "A man's heart deviseth his way: but the LORD directeth his steps."
+    },
+    {
+      "reference": "John 14:27",
+      "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid."
+    },
+    {
+      "reference": "Romans 12:14",
+      "text": "Bless them which persecute you: bless, and curse not."
+    },
+    {
+      "reference": "Psalm 40:1",
+      "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry."
+    },
+    {
+      "reference": "Matthew 5:8",
+      "text": "Blessed are the pure in heart: for they shall see God."
+    },
+    {
+      "reference": "John 14:1",
+      "text": "Let not your heart be troubled: ye believe in God, believe also in me."
+    },
+    {
+      "reference": "Romans 12:16",
+      "text": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
+    },
+    {
+      "reference": "Psalm 42:1",
+      "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God."
+    },
+    {
+      "reference": "Proverbs 22:4",
+      "text": "By humility and the fear of the LORD are riches, and honour, and life."
+    },
+    {
+      "reference": "John 14:2",
+      "text": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+    },
+    {
+      "reference": "Romans 12:18",
+      "text": "If it be possible, as much as lieth in you, live peaceably with all men."
+    },
+    {
+      "reference": "Psalm 46:10",
+      "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+    },
+    {
+      "reference": "Deuteronomy 31:6",
+      "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee."
+    },
+    {
+      "reference": "Psalm 55:22",
+      "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved."
+    },
+    {
+      "reference": "Isaiah 43:2",
+      "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee."
+    },
+    {
+      "reference": "Matthew 19:26",
+      "text": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible."
+    },
+    {
+      "reference": "Luke 1:37",
+      "text": "For with God nothing shall be impossible."
+    },
+    {
+      "reference": "Psalm 29:11",
+      "text": "The LORD will give strength unto his people; the LORD will bless his people with peace."
+    },
+    {
+      "reference": "Isaiah 53:5",
+      "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+    },
+    {
+      "reference": "Matthew 5:4",
+      "text": "Blessed are they that mourn: for they shall be comforted."
+    },
+    {
+      "reference": "Psalm 30:5",
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
+    },
+    {
+      "reference": "Isaiah 54:17",
+      "text": "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD."
+    },
+    {
+      "reference": "Matthew 5:5",
+      "text": "Blessed are the meek: for they shall inherit the earth."
+    },
+    {
+      "reference": "Psalm 31:24",
+      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD."
+    },
+    {
+      "reference": "Isaiah 55:8-9",
+      "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
+    },
+    {
+      "reference": "Matthew 5:6",
+      "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled."
+    },
+    {
+      "reference": "Psalm 33:18",
+      "text": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy."
+    },
+    {
+      "reference": "Isaiah 55:11",
+      "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it."
+    },
+    {
+      "reference": "Matthew 5:7",
+      "text": "Blessed are the merciful: for they shall obtain mercy."
+    },
+    {
+      "reference": "Psalm 34:17",
+      "text": "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles."
+    },
+    {
+      "reference": "Isaiah 58:11",
+      "text": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not."
+    },
+    {
+      "reference": "Matthew 5:10",
+      "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven."
+    },
+    {
+      "reference": "Psalm 36:7",
+      "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+    },
+    {
+      "reference": "Isaiah 59:1",
+      "text": "Behold, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear."
+    },
+    {
+      "reference": "Matthew 5:11",
+      "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake."
+    },
+    {
+      "reference": "Psalm 37:23",
+      "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+    },
+    {
+      "reference": "Isaiah 61:1",
+      "text": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound."
+    },
+    {
+      "reference": "Matthew 5:12",
+      "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+    },
+    {
+      "reference": "Psalm 40:2",
+      "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings."
+    },
+    {
+      "reference": "Isaiah 61:3",
+      "text": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified."
+    },
+    {
+      "reference": "Matthew 5:13",
+      "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+    },
+    {
+      "reference": "Psalm 42:11",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God."
+    },
+    {
+      "reference": "Isaiah 64:8",
+      "text": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand."
+    },
+    {
+      "reference": "Matthew 5:15",
+      "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house."
+    },
+    {
+      "reference": "Psalm 48:14",
+      "text": "For this God is our God for ever and ever: he will be our guide even unto death."
+    },
+    {
+      "reference": "Isaiah 65:24",
+      "text": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear."
+    },
+    {
+      "reference": "Matthew 5:17",
+      "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil."
+    },
+    {
+      "reference": "Psalm 55:17",
+      "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice."
+    },
+    {
+      "reference": "Isaiah 66:13",
+      "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem."
+    },
+    {
+      "reference": "Matthew 5:18",
+      "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+    },
+    {
+      "reference": "Psalm 57:1",
+      "text": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast."
+    },
+    {
+      "reference": "Jeremiah 1:5",
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
+    },
+    {
+      "reference": "Matthew 5:19",
+      "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven."
+    },
+    {
+      "reference": "Psalm 59:16",
+      "text": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble."
+    },
+    {
+      "reference": "Jeremiah 17:7",
+      "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is."
+    },
+    {
+      "reference": "Matthew 5:20",
+      "text": "For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven."
+    },
+    {
+      "reference": "Psalm 61:2",
+      "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
+    },
+    {
+      "reference": "Jeremiah 29:12",
+      "text": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you."
+    },
+    {
+      "reference": "Matthew 5:22",
+      "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire."
+    },
+    {
+      "reference": "Psalm 63:1",
+      "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is."
+    },
+    {
+      "reference": "Jeremiah 31:3",
+      "text": "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee."
+    },
+    {
+      "reference": "Matthew 5:23-24",
+      "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift."
+    },
+    {
+      "reference": "Psalm 65:4",
+      "text": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple."
+    },
+    {
+      "reference": "Jeremiah 32:27",
+      "text": "Behold, I am the LORD, the God of all flesh: is there any thing too hard for me?"
+    },
+    {
+      "reference": "Matthew 5:25",
+      "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison."
+    },
+    {
+      "reference": "Psalm 66:18",
+      "text": "If I regard iniquity in my heart, the Lord will not hear me."
+    },
+    {
+      "reference": "Jeremiah 33:3",
+      "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not."
+    },
+    {
+      "reference": "Matthew 5:27-28",
+      "text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+    },
+    {
+      "reference": "Psalm 68:19",
+      "text": "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah."
+    },
+    {
+      "reference": "Jeremiah 33:6",
+      "text": "Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth."
+    },
+    {
+      "reference": "Matthew 5:29",
+      "text": "And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+    },
+    {
+      "reference": "Psalm 73:26",
+      "text": "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."
+    },
+    {
+      "reference": "Lamentations 3:22-23",
+      "text": "It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness."
+    },
+    {
+      "reference": "Matthew 5:30",
+      "text": "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+    },
+    {
+      "reference": "Psalm 84:11",
+      "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."
+    },
+    {
+      "reference": "Ezekiel 36:26",
+      "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh."
+    },
+    {
+      "reference": "Matthew 5:31-32",
+      "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."
+    },
+    {
+      "reference": "Psalm 91:4",
+      "text": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler."
+    },
+    {
+      "reference": "Ezekiel 36:27",
+      "text": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them."
+    },
+    {
+      "reference": "Matthew 5:33-34",
+      "text": "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths: But I say unto you, Swear not at all; neither by heaven; for it is God's throne."
+    },
+    {
+      "reference": "Psalm 103:1-2",
+      "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits."
+    },
+    {
+      "reference": "Daniel 3:17-18",
+      "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king. But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up."
+    },
+    {
+      "reference": "Matthew 5:35-36",
+      "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King. Neither shalt thou swear by thy head, because thou canst not make one hair white or black."
+    },
+    {
+      "reference": "Psalm 107:1",
+      "text": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever."
+    },
+    {
+      "reference": "Hosea 6:3",
+      "text": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."
+    },
+    {
+      "reference": "Matthew 5:37",
+      "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+    },
+    {
+      "reference": "Psalm 112:1",
+      "text": "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments."
+    },
+    {
+      "reference": "Joel 2:25",
+      "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you."
+    },
+    {
+      "reference": "Matthew 5:38-39",
+      "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+    },
+    {
+      "reference": "Psalm 119:9",
+      "text": "Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
+    },
+    {
+      "reference": "Amos 5:14",
+      "text": "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken."
+    },
+    {
+      "reference": "Matthew 5:40",
+      "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also."
+    },
+    {
+      "reference": "Psalm 119:18",
+      "text": "Open thou mine eyes, that I may behold wondrous things out of thy law."
+    },
+    {
+      "reference": "Micah 6:8",
+      "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+    },
+    {
+      "reference": "Matthew 5:41",
+      "text": "And whosoever shall compel thee to go a mile, go with him twain."
+    },
+    {
+      "reference": "Psalm 119:50",
+      "text": "This is my comfort in my affliction: for thy word hath quickened me."
+    },
+    {
+      "reference": "Nahum 1:7",
+      "text": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+    },
+    {
+      "reference": "Matthew 5:42",
+      "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away."
+    },
+    {
+      "reference": "Psalm 119:89",
+      "text": "For ever, O LORD, thy word is settled in heaven."
+    },
+    {
+      "reference": "Habakkuk 3:19",
+      "text": "The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments."
+    },
+    {
+      "reference": "Matthew 5:43-44",
+      "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you."
+    },
+    {
+      "reference": "Psalm 119:105",
+      "text": "Thy word is a lamp unto my feet, and a light unto my path."
+    },
+    {
+      "reference": "Zephaniah 3:17",
+      "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+    },
+    {
+      "reference": "Matthew 5:45",
+      "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+    },
+    {
+      "reference": "Psalm 121:3",
+      "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
+    },
+    {
+      "reference": "Haggai 2:9",
+      "text": "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts."
+    },
+    {
+      "reference": "Matthew 5:46-47",
+      "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so?"
+    },
+    {
+      "reference": "Psalm 136:1",
+      "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+    },
+    {
+      "reference": "Zechariah 4:6",
+      "text": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts."
+    },
+    {
+      "reference": "Matthew 5:48",
+      "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect."
+    },
+    {
+      "reference": "Psalm 139:23-24",
+      "text": "Search me, O God, and know my heart: try me, and know my thoughts: And see if there be any wicked way in me, and lead me in the way everlasting."
+    },
+    {
+      "reference": "Malachi 3:10",
+      "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it."
+    },
+    {
+      "reference": "Matthew 6:1",
+      "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven."
+    },
+    {
+      "reference": "Psalm 146:5",
+      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God."
+    },
+    {
+      "reference": "Matthew 6:2",
+      "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+    },
+    {
+      "reference": "Psalm 147:3",
+      "text": "He healeth the broken in heart, and bindeth up their wounds."
+    },
+    {
+      "reference": "Matthew 6:3-4",
+      "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth: That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+    },
+    {
+      "reference": "Psalm 148:1",
+      "text": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights."
+    },
+    {
+      "reference": "Matthew 6:5",
+      "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward."
+    },
+    {
+      "reference": "Psalm 150:1",
+      "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+    },
+    {
+      "reference": "Matthew 6:6",
+      "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly."
+    }
+  ]
+}
